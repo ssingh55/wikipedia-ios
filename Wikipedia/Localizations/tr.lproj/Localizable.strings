@@ -761,7 +761,6 @@
 "home-nearby-footer" = "Konumunuza yakın daha fazla yer";
 "home-nearby-location-footer" = "$1 yakınından daha fazla";
 "home-news-footer" = "Gündemden daha fazla olay";
-"home-reading-list-prompt" = "Kayıtlı maddeleriniz artık okuma listeleri halinde düzenlenebilir ve cihazlar arasında senkronize edilebilir. Okuma listelerinizin kullanıcı tercihlerinize kaydedilmesine izin vermek için giriş yapın.";
 "home-tab-title" = "Anasayfa";
 "home-themes-action-title" = "Tercihleri yönet";
 "home-themes-prompt" = "Yazı araç çubuğundan veya kullanıcı ayarlarınızdan metin boyutu ve teması da dahil olmak üzere Okuma tercihlerinizi daha rahat bir okuma deneyimi için ayarlayın.";
@@ -1181,11 +1180,7 @@
 "reading-list-list-limit-exceeded-message" = "Bu okuma listesi ve bu listeye kaydedilen maddeler senkronize edilmeyecektir, lütfen bu listenin senkronizasyonunu devam ettirmek için listelerinizi şu sayıya düşürün: $1";
 "reading-list-list-limit-exceeded-title" = "Hesap başına {{PLURAL:$1|$1 okuma listesi|$1 okuma listesi}} sınırını aştınız.";
 "reading-list-list-limit-reached" = "Hesap başına $1 okuma listesi sınırına ulaştınız";
-"reading-list-login-button-title" = "Kayıtlı maddelerinizi senkronize etmek için giriş yapın";
 "reading-list-login-or-create-account-button-title" = "Giriş yap veya hesap oluştur";
-"reading-list-login-or-create-account-title" = "Kayıtlı makaleleri senkronize etmek için giriş yapın";
-"reading-list-login-subtitle" = "Kayıtlı maddelerinizin ve okuma listelerinizin cihazlarda senkronize edilmesine ve kullanıcı tercihlerinize kaydedilmesine izin vermek için giriş yapın veya bir hesap oluşturun.";
-"reading-list-login-title" = "Kayıtlı maddeleri senkronize edilsin mi?";
 "reading-list-name-user-created-annotation" = "_[kullanıcı oluşturuldu]";
 "reading-list-new-list-description-placeholder" = "isteğe bağlı kısa açıklama";
 "reading-list-new-list-name-placeholder" = "okuma listesi başlığı";

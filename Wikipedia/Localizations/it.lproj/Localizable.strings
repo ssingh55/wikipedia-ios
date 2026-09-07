@@ -431,6 +431,10 @@
 "end-session" = "Termina sessione";
 "error-generic-recovery-suggestion" = "Per favore, riprova più tardi";
 "error-unknown" = "Si è verificato un errore sconosciuto";
+"evergreen-account-creation-create-account-button" = "Registrati";
+"evergreen-account-creation-edits-title" = "Ottieni crediti per le tue modifiche";
+"evergreen-account-creation-saved-title-count" = "Sincronizza {{PLURAL:$1|la tua voce salvata|le tue $1 voci salvate}}";
+"evergreen-account-creation-title" = "Wikipedia è meglio con un'utenza";
 "explore-another-random" = "Un'altra voce a caso";
 "explore-because-you-read" = "Perché hai letto";
 "explore-because-you-read-footer" = "Altre voci correlate";
@@ -539,7 +543,6 @@
 "home-more-like-footer" = "Altro come $1";
 "home-nearby-footer" = "Altri luoghi vicini alla tua posizione";
 "home-nearby-location-footer" = "Altro nelle vicinanze di $1";
-"home-reading-list-prompt" = "Le tue voci slavate ora possono essere organizzate in elenchi di lettura e sincronizzati tra più dispositivi. Effettua l'accesso per permettere ai tuoi elenchi di lettura di essere salvati tra le tue preferenze.";
 "home-tab-title" = "Pagina principale";
 "home-title" = "Esplora";
 "icon-shortcut-nearby-title" = "Voci nelle vicinanze";
@@ -827,9 +830,7 @@
 "reading-list-entry-limit-exceeded-title" = "Hai superato il limite di {{PLURAL:$1|$1 voce|$1 voci}} per utenza.";
 "reading-list-limit-hit-for-unsorted-articles-button-title" = "Ordina voci";
 "reading-list-list-limit-exceeded-title" = "Hai superato il limite di {{PLURAL:$1|$1 elenco|$1 elenchi}} di lettura per utenza.";
-"reading-list-login-button-title" = "Accedi per sincronizzare le tue voci salvate";
 "reading-list-login-or-create-account-button-title" = "Accedi o registrati";
-"reading-list-login-or-create-account-title" = "Accedi per sincronizzare le voci salvate";
 "reading-list-name-user-created-annotation" = "_[utenza creata]";
 "reading-list-new-list-description-placeholder" = "breve descrizione facoltativa";
 "reading-list-new-list-name-placeholder" = "titolo dell'elenco di lettura";

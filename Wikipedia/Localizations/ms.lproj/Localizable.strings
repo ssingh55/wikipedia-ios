@@ -364,7 +364,6 @@
 "home-nearby-footer" = "Lebih banyak tempat berhampiran lokasi anda";
 "home-nearby-location-footer" = "Lainnya berhampiran $1";
 "home-news-footer" = "Berita terkini lainnya";
-"home-reading-list-prompt" = "Rencana yang disimpan anda kini boleh diaturkan dalam senarai bacaan dan disegerakkan merentas peranti. Log masuk untuk membolehkan senarai bacaan anda disimpan ke pilihan pengguna anda.";
 "home-themes-action-title" = "Urus keutamaan";
 "home-themes-prompt" = "Sesuaikan pilihan bacaan anda termasuk saiz teks dan tema dari bar alat rencana atau dalam tetapan pengguna anda untuk pengalaman membaca yang lebih selesa.";
 "home-title" = "Jelajah";
@@ -590,11 +589,7 @@
 "reading-list-list-limit-exceeded-message" = "Senarai bacaan dan rencana yang disimpan untuknya tidak akan diselaraskan, sila tolakkan jumlah senarai anda hingga $1 untuk menyambung semula penyegerakan senarai ini.";
 "reading-list-list-limit-exceeded-title" = "Anda telah melebihi had {{PLURAL:$1|$1 senarai bacaan|$1 senarai bacaan}} bagi setiap akaun.";
 "reading-list-list-limit-reached" = "Anda telah mencapai had $1 senarai bacaan setiap akaun";
-"reading-list-login-button-title" = "Log masuk untuk menyegerakkan rencana anda yang disimpan";
 "reading-list-login-or-create-account-button-title" = "Log masuk atau buka akaun";
-"reading-list-login-or-create-account-title" = "Log masuk untuk menyegerakkan rencana yang disimpan";
-"reading-list-login-subtitle" = "Log masuk atau buka akaun untuk membolehkan rencana dan senarai bacaan anda disegerakkan merentasi peranti dan disimpan ke pilihan pengguna anda.";
-"reading-list-login-title" = "Menyegerakkan rencana anda yang disimpan?";
 "reading-list-name-user-created-annotation" = "_[dicipta pengguna]";
 "reading-list-new-list-description-placeholder" = "penerangan pendek pilihan";
 "reading-list-new-list-name-placeholder" = "tajuk senarai bacaan";

@@ -464,6 +464,7 @@
 "empty-talk-page-title" = "אין שיחות עבור משתמש זה";
 "error-generic-recovery-suggestion" = "נא לנסות שוב מאוחר יותר";
 "error-unknown" = "אירעה שגיאה בלתי־ידועה";
+"evergreen-account-creation-create-account-button" = "יצירת חשבון";
 "explore-another-random" = "ערך אקראי נוסף";
 "explore-because-you-read" = "כי קראת";
 "explore-because-you-read-footer" = "ערכים קשורים נוספים";
@@ -611,7 +612,6 @@
 "home-nearby-footer" = "מקומות נוספים ליד המיקום שלך";
 "home-nearby-location-footer" = "עוד בסביבת $1";
 "home-news-footer" = "אירועים אקטואליים נוספים";
-"home-reading-list-prompt" = "עכשיו אפשר לארגן את הערכים ששמרת ברשימות קריאה ולסנכרן אותם בין מכשירים. יש להיכנס לחשבון כדי לשמור את רשימות הקריאה בהעדפות המשתמש שלך.";
 "home-themes-action-title" = "ניהול העדפות";
 "home-themes-prompt" = "קִבעו את העדפות הקריאה שלכם, כולל גודל האותיות וערכת הנושא, בסרגל הכלים או בהעדפות המשתמש שלכם, לחוויית קריאה נוחה יותר.";
 "home-title" = "לחקור";
@@ -1025,11 +1025,7 @@
 "reading-list-list-limit-exceeded-message" = "רשימת הקריאה הזאת והערכים השמורים בה לא יסונכרנו, נא לצמצם את מספר הרשימות ל־$1 כדי שניתן יהיה להמשיך לסנכרן את הרשימה הזאת.";
 "reading-list-list-limit-exceeded-title" = "חרגת ממגבלת {{PLURAL:$1|רשימת קריאה אחת|$1 רשימות קריאה}} לחשבון.";
 "reading-list-list-limit-reached" = "הגעת למגבלה של $1 רשימות קריאה לחשבון אחד";
-"reading-list-login-button-title" = "יש להיכנס לחשבון כדי לסנכרן את הערכים השמורים שלך";
 "reading-list-login-or-create-account-button-title" = "כניסה לחשבון או יצירת חשבון";
-"reading-list-login-or-create-account-title" = "יש להיכנס לחשבון כדי לסנכרן את הערכים השמורים";
-"reading-list-login-subtitle" = "יש להיכנס לחשבון או ליצור חשבון חדש כדי לסנכרן את הערכים השמורים ואת רשימות הקריאה שלך בין מכשירים ולשמור אותם בהעדפות המשתמש שלך.";
-"reading-list-login-title" = "לסנכרן את הערכים השמורים שלך?";
 "reading-list-name-user-created-annotation" = "_[המשתמש נוצר]";
 "reading-list-new-list-description-placeholder" = "תיאור קצר אופציונלי";
 "reading-list-new-list-name-placeholder" = "כותרת רשימת הקריאה";

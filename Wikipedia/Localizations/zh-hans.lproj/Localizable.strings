@@ -869,7 +869,6 @@
 "home-nearby-footer" = "更多您所在位置附近的地点";
 "home-nearby-location-footer" = "更多在$1附近";
 "home-news-footer" = "更多最近的时事";
-"home-reading-list-prompt" = "您已保存的条目现在可以整理进阅读列表，并跨设备同步。请登录，以允许您的阅读列表保存到您的用户参数设置。";
 "home-tab-title" = "首页";
 "home-tab-title-accessibility-label" = "维基百科，滚动到首页顶部";
 "home-themes-action-title" = "管理设置";
@@ -1297,11 +1296,7 @@
 "reading-list-list-limit-exceeded-message" = "此阅读列表（及保存至此的条目）将不会同步，请减少您的列表数量至$1以恢复同步此列表。";
 "reading-list-list-limit-exceeded-title" = "您已超过每账号{{PLURAL:$1|$1个阅读列表}}的限制。";
 "reading-list-list-limit-reached" = "您已超过每账号$1个阅读列表限制";
-"reading-list-login-button-title" = "登录以同步您保存的条目";
 "reading-list-login-or-create-account-button-title" = "登录或创建账号";
-"reading-list-login-or-create-account-title" = "登录以同步保存的条目";
-"reading-list-login-subtitle" = "登录或创建账号以允许跨设备同步您保存的条目和阅读列表，并保存至您的用户参数设置中。";
-"reading-list-login-title" = "是否同步您保存的条目？";
 "reading-list-name-user-created-annotation" = "_[用户创建]";
 "reading-list-new-list-description-placeholder" = "可选简短描述";
 "reading-list-new-list-name-placeholder" = "阅读列表标题";

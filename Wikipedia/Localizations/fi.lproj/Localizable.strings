@@ -682,7 +682,6 @@
 "home-nearby-footer" = "Lisää lähelläsi olevia paikkoja";
 "home-nearby-location-footer" = "Lähistöllä: $1";
 "home-news-footer" = "Lisää ajankohtaisia tapahtumia";
-"home-reading-list-prompt" = "Tallennetut artikkelisi voidaan nyt järjestää lukulistoihin ja synkronoida laitteiden välillä. Ota lukulistojen tallentumisen käyttöön käyttäjäasetuksissa kirjautumalla sisään.";
 "home-tab-title" = "Etusivu";
 "home-themes-action-title" = "Hallinnoi asetuksia";
 "home-themes-prompt" = "Mukauta lukukokemusta sinulle sopivaksi muuttamalla tekstin kokoa ja teemaa artikkelipalkista tai sovelluksen asetuksista.";
@@ -1063,11 +1062,7 @@
 "reading-list-list-limit-exceeded-message" = "Tätä lukulistaa tai siinä olevia artikkeleita ei synkronoida; siinä olevien listojen määrää tulee vähentää (raja $1), jotta synkronointia voidaan jatkaa.";
 "reading-list-list-limit-exceeded-title" = "Olet ylittänyt tunnuskohtaisen rajoituksen, joka on {{PLURAL:$1|$1 lukulista|$1 lukulistaa}} tunnusta kohden.";
 "reading-list-list-limit-reached" = "Olet ylittänyt $1 listan tunnuskohtaisen rajoituksen";
-"reading-list-login-button-title" = "Kirjaudu sisään synkronoidaksesi tallennetut artikkelisi";
 "reading-list-login-or-create-account-button-title" = "Kirjaudu sisään tai luo tunnus";
-"reading-list-login-or-create-account-title" = "Kirjaudu sisään synkronoidaksesi tallennetut artikkelit";
-"reading-list-login-subtitle" = "Kirjaudu sisään tai luo tunnus salliaksesi tallennettujen artikkelien ja lukulistojen synkronoitua laitteiden välillä ja tallentaa käyttäjäasetuksiisi.";
-"reading-list-login-title" = "Synkronoi tallennetut artikkelisi?";
 "reading-list-name-user-created-annotation" = "_[käyttäjä luotu]";
 "reading-list-new-list-description-placeholder" = "Valinnainen lyhyt kuvaus";
 "reading-list-new-list-name-placeholder" = "Lukulistan nimi";

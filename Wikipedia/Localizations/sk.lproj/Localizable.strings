@@ -776,7 +776,6 @@
 "home-nearby-footer" = "Viac miest z vášho okolia";
 "home-nearby-location-footer" = "Ďalšie miesta v okolí $1";
 "home-news-footer" = "Viac aktuálnych udalostí";
-"home-reading-list-prompt" = "Vaše uložené články môžu byť teraz organizované do zoznamov na prečítanie a synchronizované naprieč zariadeniami. Prihláste sa, aby ste povolili ukladanie zoznamov na prečítanie do vašich používateľských nastavení.";
 "home-tab-title" = "Domov";
 "home-tab-title-accessibility-label" = "Wikipédia, prejsť na začiatok kanála Domov";
 "home-themes-action-title" = "Spravujte nastavenia";
@@ -1211,11 +1210,7 @@
 "reading-list-list-limit-exceeded-message" = "Tento zoznam na prečítanie a články uložené do neho nebudú synchronizované. Znížte, prosím, počet zoznamov na $1, aby ste obnovili synchronizáciu tohto zoznamu.";
 "reading-list-list-limit-exceeded-title" = "Prekročili ste maximálny limit {{PLURAL:$1|$1 zoznamu na prečítanie|$1 zoznamov na prečítanie}} na účet.";
 "reading-list-list-limit-reached" = "Dosiahli ste limit $1 zoznamov na prečítanie na účet";
-"reading-list-login-button-title" = "Prihláste sa pre synchronizáciu vašich uložených článkov";
 "reading-list-login-or-create-account-button-title" = "Prihlásiť sa alebo vytvoriť účet";
-"reading-list-login-or-create-account-title" = "Prihláste sa pre synchronizáciu uložených článkov";
-"reading-list-login-subtitle" = "Prihláste sa alebo si založte účet, aby ste mohli povoliť synchronizáciu článkov a zoznamov na prečítanie naprieč zariadeniami.";
-"reading-list-login-title" = "Synchronizovať vaše uložené články?";
 "reading-list-name-user-created-annotation" = "_[používateľ vytvorený]";
 "reading-list-new-list-description-placeholder" = "voliteľný krátky popis";
 "reading-list-new-list-name-placeholder" = "názov zoznamu na prečítanie";

@@ -700,6 +700,7 @@
 "find-replace-header" = "찾아 바꾸기";
 "find-replace-header-close-accessibility" = "찾아 바꾸기 닫기";
 "find-textfield-accessibility" = "찾기";
+"for-you-end-of-feed-title" = "오늘은 여기까지입니다!";
 "for-you-header-because-you-read" = "당신이 다음을 읽었기에: $1";
 "for-you-header-interest" = "당신의 다음 관심사로 인해: $1";
 "forgot-password-button-title" = "재설정";
@@ -775,7 +776,6 @@
 "home-nearby-footer" = "사용자 위치의 더 많은 주변 장소";
 "home-nearby-location-footer" = "$1의 주변 정보";
 "home-news-footer" = "더 많은 요즘 화제";
-"home-reading-list-prompt" = "당신이 저장한 문서는 읽기 목록으로 구성되어 기기 간에 동기화됩니다. 읽기 목록이 사용자 설정에 저장되려면 로그인해야 합니다.";
 "home-tab-title" = "홈";
 "home-themes-action-title" = "환경 설정 관리하기";
 "home-themes-prompt" = "글씨 크기, 문서 툴바를 포함한 테마 등 읽기 설정이나, 더 편안한 읽기 환경을 위한 사용자 환경 설정을 조절해 보세요.";
@@ -1190,11 +1190,7 @@
 "reading-list-list-limit-exceeded-message" = "읽기 목록과 읽기 목록에 저장된 문서들이 동기화되지 않습니다. 이 목록의 동기화를 계속하려면 목록 수를 $1개로 줄여 주십시오.";
 "reading-list-list-limit-exceeded-title" = "계정 당 {{PLURAL:$1|$1개의 읽기 목록}} 제한에 도달했습니다.";
 "reading-list-list-limit-reached" = "계정 당 $1개의 읽기 목록 제한에 도달했습니다";
-"reading-list-login-button-title" = "로그인하여 저장된 문서를 동기화합니다";
 "reading-list-login-or-create-account-button-title" = "로그인 / 계정 만들기";
-"reading-list-login-or-create-account-title" = "로그인하여 저장된 문서를 동기화합니다";
-"reading-list-login-subtitle" = "저장된 문서와 읽기 목록을 장치 간에 동기화하고 사용자 환경 설정에 저장하려면 계정을 만들거나 로그인하십시오.";
-"reading-list-login-title" = "저장된 문서를 동기화할까요?";
 "reading-list-name-user-created-annotation" = "_[사용자가 만듦]";
 "reading-list-new-list-description-placeholder" = "선택적 간단한 설명";
 "reading-list-new-list-name-placeholder" = "읽기 목록 제목";

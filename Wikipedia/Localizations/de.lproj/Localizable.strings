@@ -826,7 +826,6 @@
 "home-nearby-footer" = "Mehr Orte nahe deines Standortes";
 "home-nearby-location-footer" = "Mehr in der Nähe von $1";
 "home-news-footer" = "Mehr aktuelle Ereignisse";
-"home-reading-list-prompt" = "Deine gespeicherten Artikel können jetzt in Sammlungen organisiert und zwischen deinen Geräten synchronisiert werden. Melde dich an, um die Speicherung deiner Sammlungen in deinen Benutzereinstellungen zu erlauben.";
 "home-tab-title" = "Start";
 "home-tab-title-accessibility-label" = "Wikipedia, zum Anfang von Start scrollen";
 "home-themes-action-title" = "Einstellungen verwalten";
@@ -1255,11 +1254,7 @@
 "reading-list-list-limit-exceeded-message" = "Diese Sammlung und die in ihr gespeicherten Artikel werden nicht synchronisiert. Bitte reduziere die Anzahl der Sammlungen auf $1, um mit der Synchronisierung dieser Sammlung fortzufahren.";
 "reading-list-list-limit-exceeded-title" = "Du hast die Grenze von {{PLURAL:$1|einer Sammlung|$1 Sammlungen}} pro Benutzerkonto überschritten.";
 "reading-list-list-limit-reached" = "Du hast die Grenze von $1 Sammlungen pro Benutzerkonto erreicht";
-"reading-list-login-button-title" = "Zur Synchronisierung deiner gespeicherten Artikel anmelden";
 "reading-list-login-or-create-account-button-title" = "Anmelden oder Benutzerkonto erstellen";
-"reading-list-login-or-create-account-title" = "Zur Synchronisierung von gespeicherten Artikeln anmelden";
-"reading-list-login-subtitle" = "Melde dich an oder erstelle ein Benutzerkonto, um die Synchronisierung deiner gespeicherten Artikel und Sammlungen zwischen deinen Geräten zu erlauben.";
-"reading-list-login-title" = "Deine gespeicherten Artikel synchronisieren?";
 "reading-list-name-user-created-annotation" = "_[user created]";
 "reading-list-new-list-description-placeholder" = "optionale Kurzbeschreibung";
 "reading-list-new-list-name-placeholder" = "Titel der Sammlung";

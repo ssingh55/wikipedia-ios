@@ -752,7 +752,6 @@
 "home-nearby-footer" = "المزيد من الأماكن بالقرب من موقعك";
 "home-nearby-location-footer" = "المزيد بالقرب من $1";
 "home-news-footer" = "المزيد من الأحداث الجارية";
-"home-reading-list-prompt" = "يمكن الآن تنظيم مقالاتك المحفوظة في قوائم القراءة والمزامنة عبر الأجهزة، قم بتسجيل الدخول للسماح بحفظ قوائم قراءتك في تفضيلات المستخدم الخاصة بك.";
 "home-tab-title" = "بيت";
 "home-tab-title-accessibility-label" = "ويكيبيديا، انتقل إلى أعلى الصفحة الرئيسية";
 "home-themes-action-title" = "إدارة التفضيلات";
@@ -1175,11 +1174,7 @@
 "reading-list-list-limit-exceeded-message" = "لن تتم مزامنة قائمة القراءة هذه والمقالات المحفوظة فيها; يُرجَى تقليل عدد قوائمك إلى $1 لاستئناف مزامنة هذه القائمة.";
 "reading-list-list-limit-exceeded-title" = "لقد تجاوزت الحد المسموح به وهو {{PLURAL:$1|$1 قائمة قراءة|$1 قوائم قراءة}} لكل حساب.";
 "reading-list-list-limit-reached" = "لقد تجاوزت الحد الأقصى وهو $1 قوائم قراءة لكل حساب.";
-"reading-list-login-button-title" = "سجل الدخول لمزامنة مقالاتك المحفوظة";
 "reading-list-login-or-create-account-button-title" = "تسجيل الدخول أو إنشاء حساب";
-"reading-list-login-or-create-account-title" = "سجل الدخول لمزامنة المقالات المحفوظة";
-"reading-list-login-subtitle" = "سجل الدخول أو أنشئ حسابا للسماح بمزامنة مقالاتك وقوائمك المحفوظة عبر الأجهزة وحفظها في تفضيلات المستخدم الخاصة بك.";
-"reading-list-login-title" = "مزامنة مقالاتك المحفوظة؟";
 "reading-list-name-user-created-annotation" = "_ [مستخدم تم إنشاؤه]";
 "reading-list-new-list-description-placeholder" = "وصف قصير اختياري";
 "reading-list-new-list-name-placeholder" = "عنوان قائمة القراءة";

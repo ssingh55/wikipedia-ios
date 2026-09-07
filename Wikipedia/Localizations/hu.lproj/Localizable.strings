@@ -456,7 +456,6 @@
 "home-nearby-footer" = "További helyek a közeledben";
 "home-nearby-location-footer" = "Több $1 közeléből";
 "home-news-footer" = "További aktuális események";
-"home-reading-list-prompt" = "A mentett szócikkeidet mostantól olvasólistákba tudod szervezni, amelyek a különböző eszközeid között szinkronizálásra kerülnek. Jelentkezz be, hogy az olvasólistáidat a felhasználói beállításaid közé tudd menteni.";
 "home-themes-action-title" = "Beállítások kezelése";
 "home-title" = "Felfedezés";
 "home-title-accessibility-label" = "Wikipédia, görgetés a Felfedezés tetejére";
@@ -732,9 +731,7 @@
 "reading-list-list-limit-exceeded-message" = "Az olvasólista és a benne mentett szócikkek nem fognak szinkronizálódni. Csökkentsd a listák számát ennyire: $1, a listák szinkronizálásának folytatásához.";
 "reading-list-list-limit-exceeded-title" = "Az olvasólisták száma legfeljebb $1 lehet fiókonként.";
 "reading-list-list-limit-reached" = "Az olvasólisták száma legfeljebb $1 lehet.";
-"reading-list-login-button-title" = "Jelentkezz be a mentett szócikkek szinkronizálásához";
 "reading-list-login-or-create-account-button-title" = "Bejelentkezés / fiók létrehozása";
-"reading-list-login-or-create-account-title" = "Jelentkezz be a mentett szócikkek szinkronizálásához";
 "reading-list-new-list-description-placeholder" = "opcionális rövid leírás";
 "reading-list-new-list-name-placeholder" = "olvasólista címe";
 "reading-list-sync-disabled-panel-title" = "Szinkronizálás leállítva";

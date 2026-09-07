@@ -492,7 +492,6 @@
 "home-nearby-footer" = "Thêm địa điểm gần vị trí của bạn";
 "home-nearby-location-footer" = "Thêm mục gần $1";
 "home-news-footer" = "Thêm thời sự";
-"home-reading-list-prompt" = "Hiện có thể tổ chức các bài đã lưu của bạn thành danh sách đọc và đồng bộ hóa chúng trên nhiều thiết bị. Đăng nhập để lưu các danh sách đọc của bạn vào tùy chọn cá nhân.";
 "home-tab-title" = "Trang nhà";
 "home-themes-action-title" = "Thiết lập";
 "home-themes-prompt" = "Điều chỉnh tùy chọn Đọc bài, thí dụ kích thước văn bản và giao diện, dùng thanh công cụ bài viết hoặc trong Cài đặt để đọc bài một cách thoải mái hơn.";
@@ -806,11 +805,7 @@
 "reading-list-list-limit-exceeded-message" = "Danh sách đọc này cũng như toàn bộ các bài viết trong danh sách sẽ không được đồng bộ hóa, xin hãy giảm số danh sách xuống còn $1 để tiếp tục quá trình đồng bộ hóa.";
 "reading-list-list-limit-exceeded-title" = "Bạn đã vượt quá giới hạn $1 danh sách đọc mỗi tài khoản.";
 "reading-list-list-limit-reached" = "Bạn đã tới giới hạn $1 danh sách đọc mỗi tài khoản";
-"reading-list-login-button-title" = "Đăng nhập để đồng bộ các bài đã lưu của bạn";
 "reading-list-login-or-create-account-button-title" = "Đăng nhập hoặc mở tài khoản";
-"reading-list-login-or-create-account-title" = "Đăng nhập để đồng bộ bài đã lưu";
-"reading-list-login-subtitle" = "Đăng nhập hoặc mở tài khoản để đồng bộ hóa các bài viết và danh sách đọc đã lưu trên các thiết bị và lưu chúng vào tùy chọn cá nhân.";
-"reading-list-login-title" = "Đồng bộ hóa các bài đã lưu của bạn?";
 "reading-list-name-user-created-annotation" = "_[do người dùng tạo]";
 "reading-list-new-list-description-placeholder" = "miêu tả ngắn tùy chọn";
 "reading-list-new-list-name-placeholder" = "tên danh sách đọc";

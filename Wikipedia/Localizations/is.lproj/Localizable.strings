@@ -424,7 +424,6 @@
 "home-nearby-footer" = "Fleiri staðir í nágrenninu";
 "home-nearby-location-footer" = "Fleira frá nágrenni $1";
 "home-news-footer" = "Fleira í fréttum núna";
-"home-reading-list-prompt" = "Vistuðu greinarnar þínar er núna hægt að skipuleggja í leslista og samstilla þá síðan á milli tækja. Skráðu þig inn svo hægt sé að vista leslistana í notandastillingarnar þínar.";
 "home-themes-action-title" = "Sýsla með kjörstillingar";
 "home-themes-prompt" = "Stilltu lestrarstillingarnar þínar, svo sem eins og þema og stærð leturs, úr verkfærastiku greinar eða í notandastillingunum þínum, þannig að þægindin verði sem mest við lestur.";
 "home-title" = "Uppgötva";
@@ -737,11 +736,7 @@
 "reading-list-list-limit-exceeded-message" = "Þessi leslisti og greinarnar vistaðar á hann verða ekki samstilltar, fækkaðu greinunum á þessum lista niður í $1 til að halda áfram samstillingu á listanum.";
 "reading-list-list-limit-exceeded-title" = "Þú hefur farið fram úr hámarkinu með {{PLURAL:$1|$1 leslista|$1 leslista}} á hvern notandaaðgang.";
 "reading-list-list-limit-reached" = "Þú hefur náð hámarkinu með $1 leslista á hvern notandaaðgang";
-"reading-list-login-button-title" = "Skráðu inn til að samstilla vistuðu greinarnar þínar";
 "reading-list-login-or-create-account-button-title" = "Skráðu þig inn til að búa til aðgang";
-"reading-list-login-or-create-account-title" = "Skráðu inn til að samstilla vistaðar greinar";
-"reading-list-login-subtitle" = "Skráðu þig inn eða útbúðu notandaaðgang svo hægt sé að samstilla vistaðar greinar og leslista á notandaaðganginn þinn og samstilla þannig á milli tækja.";
-"reading-list-login-title" = "Samstilla vistuðu greinarnar þínar?";
 "reading-list-name-user-created-annotation" = "_[bjó til notanda]";
 "reading-list-new-list-description-placeholder" = "stutt valkvæð lýsing";
 "reading-list-new-list-name-placeholder" = "titill leslista";

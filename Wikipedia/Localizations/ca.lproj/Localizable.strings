@@ -463,7 +463,6 @@
 "home-nearby-footer" = "Més llocs prop de la vostra ubicació";
 "home-nearby-location-footer" = "Més propers a $1";
 "home-news-footer" = "Més esdeveniments actuals";
-"home-reading-list-prompt" = "Els articles desats poden organitzar-se entre llistes de lectura i sincronitzar-se entre dispositius. Inicieu una sessió per permetre que les llistes de lectura puguin desar-se a les preferències d'usuari.";
 "home-themes-action-title" = "Gestiona les preferències";
 "home-themes-prompt" = "Ajusteu les preferències de lectura, incloent-hi la mida del text i el tema, des de la barra d'eines de l'article o des de les vostres preferències d'usuari per a una experiència de lectura més còmode.";
 "home-title" = "Exploreu";
@@ -814,11 +813,7 @@
 "reading-list-list-limit-exceeded-message" = "La llista de lectura i els articles que hi ha desats no se sincronitzaran. Reduïu el nombre de llistes a $1 per resumir la sincronització de la llista.";
 "reading-list-list-limit-exceeded-title" = "Heu excedit el límit de {{PLURAL:$1|$1 llista de lectura|$1 llistes de lectura}} per compte.";
 "reading-list-list-limit-reached" = "Heu arribat el límit de $1 llistes de lectura per compte";
-"reading-list-login-button-title" = "Inicieu una sessió per sincronitzar els vostres articles desats";
 "reading-list-login-or-create-account-button-title" = "Inicia una sessió o crea un compte";
-"reading-list-login-or-create-account-title" = "Inicia una sessió per a sincronitzar els articles desats";
-"reading-list-login-subtitle" = "Inicieu una sessió o creeu un compte per permetre que els vostres articles desats i llistes de lectura puguin sincronitzar-se entre dispositius i desar-se a les vostres preferències d'usuari.";
-"reading-list-login-title" = "Voleu sincronitzar els articles desats?";
 "reading-list-name-user-created-annotation" = "_[usuari creat]";
 "reading-list-new-list-description-placeholder" = "descripció curta opcional";
 "reading-list-new-list-name-placeholder" = "títol de la llista de lectura";

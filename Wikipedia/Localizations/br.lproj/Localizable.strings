@@ -499,9 +499,6 @@
 "reading-list-deleted-accessibility-notification" = "Roll lenn lamet";
 "reading-list-limit-hit-for-unsorted-articles-button-title" = "Rummañ ar pennadoù";
 "reading-list-login-or-create-account-button-title" = "Kevreañ pe krouiñ ur gont";
-"reading-list-login-or-create-account-title" = "Kevreañ evit sinkronelaat ar pennadoù enrollet";
-"reading-list-login-subtitle" = "Kevreañ pe krouiñ ur gont evit gallout sinkronelaat ho pennadoù enrollet hag ho rolloù lenn etre ardivinkoù, hag enrollañ ho penndibaboù implijer.";
-"reading-list-login-title" = "Sinkronelaat ho pennadoù enrollet ?";
 "reading-list-name-user-created-annotation" = "_[implijer krouet]";
 "reading-list-sync-disabled-panel-title" = "Sinkroneladur diweredekaet";
 "reading-list-sync-enable-button-title" = "Gweredekaat ar sinkroneladur";

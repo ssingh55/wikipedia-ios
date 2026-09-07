@@ -418,7 +418,6 @@
 "home-nearby-footer" = "Mine naŋ peɛlefi zie";
 "home-nearby-location-footer" = "Mine naŋ peɛle $1";
 "home-news-footer" = "Pampana yɛlɛ mine";
-"home-reading-list-prompt" = "Fo Aatekel na fo naŋ biŋ pampana be la a kannoo die kyɛ be a taŋgamie zaa. Kpɛ a vɛŋ ka a yɛlɛ na fo naŋ e biŋ ka a be lɛ fo boɔrɔ";
 "home-themes-action-title" = "Maale taa fo boɔbɔ";
 "home-themes-prompt" = "Eŋ faŋa fo kannoo a pãã de a ŋmaaroo ane a yelzu a yi a Aatekel bie";
 "home-title" = "E ka a yi";
@@ -713,11 +712,7 @@
 "reading-list-list-limit-exceeded-message" = "A kannoo Aatekel gama na boŋ koŋ baŋ e, sɔrɔɔ la segree fo namba te ta $1 a leɛ see a gama.";
 "reading-list-list-limit-exceeded-title" = "Fo naŋ la zie naŋ ba naŋ yeli ka fo tɛg {{PLURAL:$1|$1 reading list|$1 reading lists}} toŋ bone kaŋa zaa.";
 "reading-list-list-limit-reached" = "Fo ta la a tɛgoo zie $1 kanne a gama na be a toŋ tone bone";
-"reading-list-login-button-title" = "Kpɛ a tõɔ nyɛ fo Aatekel na biŋ";
 "reading-list-login-or-create-account-button-title" = "Kpɛ bee kuri toŋ toŋ zie";
-"reading-list-login-or-create-account-title" = "Kpɛ kyɛ eŋ Aatekel";
-"reading-list-login-subtitle" = "Kpɛ bee kuri toŋ toŋ bone a vɛŋ Aatekel na fo naŋ baŋ ane a kannoo gama na be a taŋgaraa zaa kyɛ de onaŋ fo boɔrɔ.";
-"reading-list-login-title" = "Nyɛ fo Aatekel?";
 "reading-list-name-user-created-annotation" = "_[toŋ tons kuri la]";
 "reading-list-new-list-description-placeholder" = "Boɔbu ŋmaa bigruu";
 "reading-list-new-list-name-placeholder" = "Yelzu kannoo";

@@ -327,7 +327,6 @@
 "home-nearby-footer" = "Pli da lokoj proksime al via loko";
 "home-nearby-location-footer" = "Pliaj proksime de $1";
 "home-news-footer" = "Pli da nunaj eventoj";
-"home-reading-list-prompt" = "Viaj konservitaj artikoloj nun povas esti organizitaj en legolistoj kaj esti sinkronigitaj trans aparatoj. Ensalutu por ebligi ke viaj ligolistoj estu konservitaj ĉe viaj uzantopreferoj.";
 "home-themes-action-title" = "Administri preferojn";
 "home-themes-prompt" = "Ĝustigu viajn Legopreferojn inkluzive de teksta grando kaj etoso de la artikola ilobreto aŭ en viaj agordoj de uzanto por optimumigi vian legoĝuon.";
 "home-title" = "Esplori";
@@ -493,11 +492,7 @@
 "reading-list-list-limit-exceeded-message" = "Ĉi tiu legolisto kaj la artikoloj konservitaj al ĝi ne estos sinkronigitaj. Bonvolu malpliigi vian nombron de listoj al $1 por daŭrigi la sinkronigadon de ĉi tiu listo.";
 "reading-list-list-limit-exceeded-title" = "Vi preterpasis la limon de po {{PLURAL:$1|$1 legolisto|$1 legolistoj}} por konto.";
 "reading-list-list-limit-reached" = "Vi atingis la limon de po $1 legolistoj por konto";
-"reading-list-login-button-title" = "Ensalutu por sinkronigi viajn konservitajn artikolojn";
 "reading-list-login-or-create-account-button-title" = "Ensaluti aŭ krei novan konton";
-"reading-list-login-or-create-account-title" = "Ensalutu por sinkronigi konservitajn artikolojn";
-"reading-list-login-subtitle" = "Ensalutu aŭ kreu konton por ebligi ke viaj konservitaj artikoloj kaj legolistoj estu sinkronigitaj trans aparatoj kaj konservitaj al viaj uzanto-preferoj.";
-"reading-list-login-title" = "Ĉu sinkronigi viajn konservitajn artikolojn?";
 "reading-list-name-user-created-annotation" = "_[uzanto kreita]";
 "reading-list-new-list-description-placeholder" = "nedeviga mallonga priskribo";
 "reading-list-new-list-name-placeholder" = "titolo de la legolisto";

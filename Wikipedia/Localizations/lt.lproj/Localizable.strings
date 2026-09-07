@@ -382,7 +382,6 @@
 "home-nearby-footer" = "Daugiau vietų šalia jūsų vietovės";
 "home-nearby-location-footer" = "Daugiau netoliese $1";
 "home-news-footer" = "Daugiau dabartinių įvykių";
-"home-reading-list-prompt" = "Jūsų išsaugoti straipsniai dabar gali būti tvarkomi skaitymo sąrašuose ir sinchronizuojami tarp įrenginių. Prisijunkite, kad leistumėte savo skaitymo sąrašus išsaugoti savo naudotojo nustatymuose.";
 "home-themes-action-title" = "Tvarkyti nustatymus";
 "home-themes-prompt" = "Kad skaityti būtų patogiau, pritaikykite savo skaitymo nuostatas, įskaitant teksto dydį ir temą, iš straipsnio įrankio juostos arba savo naudotojo nustatymuose.";
 "home-title" = "Naršyti";
@@ -700,11 +699,7 @@
 "reading-list-list-limit-exceeded-message" = "Šis skaitymo sąrašas ir jame išsaugoti straipsniai nebus sinchronizuojami, prašome sumažinti sąrašų skaičių iki $1, kad būtų tęsiamas šio sąrašo sinchronizavimas.";
 "reading-list-list-limit-exceeded-title" = "Viršijote {{PLURAL:$1|$1 skaitymo sąrašo|$1 skaitymo sąrašų}} limitą vienai paskyrai.";
 "reading-list-list-limit-reached" = "Pasiekėte paskyros skaitymo sąrašo limitą $1";
-"reading-list-login-button-title" = "Prisijunkite, kad sinchronizuotumėte savo išsaugotos straipsnius";
 "reading-list-login-or-create-account-button-title" = "Prisijunkite arba sukurkite paskyrą";
-"reading-list-login-or-create-account-title" = "Prisijunkite, kad sinchronizuokite išsaugotos straipsnius";
-"reading-list-login-subtitle" = "Prisijunkite ar sukurkite paskyrą, kad leistumėte savo išsaugotus straipsnius ir skaitymo sąrašus sinchronizuoti tarp įrenginių ir išsaugoti į savo naudotojo parinktis.";
-"reading-list-login-title" = "Sinchronizuoti savo išsaugotos straipsnius?";
 "reading-list-name-user-created-annotation" = "_[sukurta naudotojo]";
 "reading-list-new-list-description-placeholder" = "pasirinktinis trumpas aprašymas";
 "reading-list-new-list-name-placeholder" = "skaitymo sąrašo pavadinimas";

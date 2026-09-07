@@ -767,7 +767,6 @@
 "home-nearby-footer" = "Fler platser i närheten av din plats";
 "home-nearby-location-footer" = "Mer i närheten av $1";
 "home-news-footer" = "Flera aktuella händelser";
-"home-reading-list-prompt" = "Dina sparade artiklar kan nu organiseras i läslistor och synkroniseras över enheter. Logga in för att låta dina läslistor sparas till dina användarinställningar.";
 "home-tab-title" = "Hem";
 "home-themes-action-title" = "Hantera inställningar";
 "home-themes-prompt" = "Justera dina läsinställningar inklusive textstorlek och tema från verktygsfältet eller i dina användarinställningar för en mer bekväm läsupplevelse.";
@@ -1182,11 +1181,7 @@
 "reading-list-list-limit-exceeded-message" = "Denna läslista och artiklarna som är sparade i den kommer inte att synkroniseras, var god minska antalet listor till $1 för att fortsätta synkronisera denna lista.";
 "reading-list-list-limit-exceeded-title" = "Du har överstigit gränsen på $1 {{PLURAL:$1|$1 läslista|$1 läslistor}} per konto.";
 "reading-list-list-limit-reached" = "Du har nått gränsen på $1 läslistor per konto.";
-"reading-list-login-button-title" = "Logga in för att synkronisera dina sparade artiklar";
 "reading-list-login-or-create-account-button-title" = "Logga in eller skapa konto";
-"reading-list-login-or-create-account-title" = "Logga in för att synkronisera sparade artiklar";
-"reading-list-login-subtitle" = "Logga in eller skapa ett konto för att låta dina sparade artiklar och läslistor synkroniseras över enheter och sparas till dina användarinställningar.";
-"reading-list-login-title" = "Synkronisera dina sparade artiklar?";
 "reading-list-name-user-created-annotation" = "_[användarskapad]";
 "reading-list-new-list-description-placeholder" = "valfri kort beskrivning";
 "reading-list-new-list-name-placeholder" = "titel på läslista";

@@ -532,7 +532,6 @@
 "home-nearby-footer" = "สถานที่เพิ่มเติมที่อยู่ใกล้ตำแหน่งของคุณ";
 "home-nearby-location-footer" = "บทความเพิ่มเติมที่อยู่ใกล้เคียงกับ $1";
 "home-news-footer" = "เหตุการณ์ปัจจุบันเพิ่มเติม";
-"home-reading-list-prompt" = "คุณสามารถจัดระเบียบบทความที่บันทึกไว้ของคุณลงในรายการอ่านและซิงค์กับอุปกรณ์ทุกๆ เครื่องได้ เข้าสู่ระบบเพื่อบันทึกรายการอ่านของคุณไปยังการตั้งค่าผู้ใช้ของคุณ";
 "home-themes-action-title" = "จัดการการตั้งค่า";
 "home-themes-prompt" = "ปรับการตั้งค่าการอ่านของคุณรวมถึงขนาดข้อความและธีมจากแถบเครื่องมือบทความหรือในการตั้งค่าผู้ใช้ของคุณเพื่อประสบการณ์การอ่านที่สะดวกสบายยิ่งขึ้น";
 "home-title" = "สำรวจ";
@@ -844,11 +843,7 @@
 "reading-list-keep-title" = "เก็บบทความที่บันทึกไว้บนอุปกรณ์หรือไม่";
 "reading-list-limit-hit-for-unsorted-articles-button-title" = "เรียงบทความ";
 "reading-list-list-limit-exceeded-title" = "คุณเกินขีดจำกัดของ {{PLURAL:$1|$1 รายการอ่าน}} ต่อบัญชี";
-"reading-list-login-button-title" = "เข้าสู่ระบบเพื่อซิงค์บทความที่บันทึกไว้ของคุณ";
 "reading-list-login-or-create-account-button-title" = "เข้าสู่ระบบหรือสร้างบัญชี";
-"reading-list-login-or-create-account-title" = "เข้าสู่ระบบเพื่อซิงค์บทความที่บันทึกไว้";
-"reading-list-login-subtitle" = "เข้าสู่ระบบหรือสร้างบัญชีเพื่อซิงค์บทความที่บันทึกไว้และรายการอ่านของคุณกับอุปกรณ์ทุกเครื่องและบันทึกในการตั้งค่าผู้ใช้ของคุณ";
-"reading-list-login-title" = "ซิงค์บทความที่บันทึกไว้ของคุณหรือไม่?";
 "reading-list-name-user-created-annotation" = "_[สร้างโดยผู้ใช้]";
 "reading-list-new-list-description-placeholder" = "คำอธิบายอย่างย่อ";
 "reading-list-new-list-name-placeholder" = "ชื่อเรื่องรายการอ่าน";

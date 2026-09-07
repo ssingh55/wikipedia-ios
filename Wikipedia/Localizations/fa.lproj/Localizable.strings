@@ -761,7 +761,6 @@
 "home-nearby-footer" = "مکان‌های بیشتر در نزدیکی موقعیت شما";
 "home-nearby-location-footer" = "موارد بیشتر نزدیک به $1";
 "home-news-footer" = "رویدادهای کنونی بیشتر";
-"home-reading-list-prompt" = "مقاله‌های ذخیره‌شدهٔ شما اکنون می‌توانند در فهرست‌های مطالعه مرتب شده و با دیگر دستگاه‌ها همگام‌سازی شوند. برای ذخیره فهرست‌های مطالعه در ترجیحات کاربری خود، به سامانه وارد شوید.";
 "home-tab-title" = "خانه";
 "home-themes-action-title" = "مدیریت ترجیحات";
 "home-themes-prompt" = "با تنظیم ترجیحات مطالعه شامل اندازه متن و پوسته از نوار ابزار مقاله یا در تنظیمات کاربری می‌توانید تجریهٔ یک مطالعهٔ مطبوع داشته باشید.";
@@ -1174,11 +1173,7 @@
 "reading-list-list-limit-exceeded-message" = "این فهرست مطالعه و مقاله‌هایی که در آن ذخیره شده‌اند، همگام‌سازی نخواهند شد. برای ادامهٔ همگام‌سازی این فهرست، لطفاً تعداد فهرست‌های خود را به $1 کاهش دهید.";
 "reading-list-list-limit-exceeded-title" = "شما از محدودیت {{PLURAL:$1|$1 فهرست مطالعه|$1 فهرست مطالعه}} به‌ازای هر حساب عبور کرده‌اید.";
 "reading-list-list-limit-reached" = "شما به محدودۀ $1 فهرست‌های مطالعه برای هر حساب رسیده‌اید";
-"reading-list-login-button-title" = "برای همگام‌سازی مقاله‌های ذخیره‌شده وارد شوید";
 "reading-list-login-or-create-account-button-title" = "ورود یا ایجاد حساب";
-"reading-list-login-or-create-account-title" = "برای همسان‌سازی مقاله‌های ذخیره‌شده وارد شوید";
-"reading-list-login-subtitle" = "برای همگام‌سازی مقالات ذخیره‌شده و فهرست‌های مطالعه در دستگاه‌های دیگر و ذخیرهٔ آنها در ترجیحات کاربری خود، وارد شوید یا یک حساب ایجاد کنید.";
-"reading-list-login-title" = "مقالات ذخیره‌شده همگام‌سازی شوند؟";
 "reading-list-name-user-created-annotation" = "_[ایجاد توسط کاربر]";
 "reading-list-new-list-description-placeholder" = "توصیف کوتاه اختیاری";
 "reading-list-new-list-name-placeholder" = "عنوان فهرست مطالعه";

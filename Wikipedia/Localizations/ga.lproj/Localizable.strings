@@ -762,7 +762,6 @@
 "home-nearby-footer" = "Tuilleadh áiteanna in aice le do shuíomh";
 "home-nearby-location-footer" = "Tuilleadh in aice le $1";
 "home-news-footer" = "Tuilleadh cúrsaí reatha";
-"home-reading-list-prompt" = "Anois is féidir do chuid alt sábháilte a eagrú ar liostaí léitheoireachta agus a shioncrónú thar gléasanna. Logáil isteach le ceadú go sábhálfar do chuid liostaí léitheoireachta i do sainroghanna úsáideora.";
 "home-tab-title" = "Baile";
 "home-tab-title-accessibility-label" = "Vicipéid, scrollaigh go barr an Bhaile";
 "home-themes-action-title" = "Bainistigh sainroghanna";
@@ -1197,11 +1196,7 @@
 "reading-list-list-limit-exceeded-message" = "Ní dhéanfar an liosta léitheoireachta seo ná na hairteagail atá sábháilte air a shioncrónú, laghdaigh líon do liostaí go $1 le do thoil chun sioncrónú an liosta seo a atosú.";
 "reading-list-list-limit-exceeded-title" = "Tá an teorainn de {{PLURAL:$1|$1 liosta léitheoireachta|$1 liostaí léitheoireachta}} in aghaidh an chuntais sáraithe agat.";
 "reading-list-list-limit-reached" = "Tá an teorainn de $1 liosta léitheoireachta in aghaidh an chuntais sroichte agat";
-"reading-list-login-button-title" = "Logáil isteach le do chuid alt sábháilte a shioncronú";
 "reading-list-login-or-create-account-button-title" = "Logáil isteach nó cruthaigh cuntas";
-"reading-list-login-or-create-account-title" = "Logáil isteach le hailt sábháilte a shioncronú";
-"reading-list-login-subtitle" = "Logáil isteach nó cruthaigh cuntas le ceadú go sioncronófar do chuid alt sábháilte agus liostaí léitheoireachta thar gléasanna, agus go sábhálfar an cinneadh sin i do chuid sainroghanna úsáideora.";
-"reading-list-login-title" = "Sioncronaigh do chuid alt sábháilte?";
 "reading-list-name-user-created-annotation" = "_[cruthaíodh úsáideoir]";
 "reading-list-new-list-description-placeholder" = "sainchuntas roghnach gearr";
 "reading-list-new-list-name-placeholder" = "teideal ar liosta léitheoireachta";

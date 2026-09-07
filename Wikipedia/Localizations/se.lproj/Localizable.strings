@@ -532,7 +532,6 @@
 "home-nearby-footer" = "Eanet báikkit du lahkosis";
 "home-nearby-location-footer" = "Eanet $1 lahkosis";
 "home-news-footer" = "Eanet áigeguovdilis dáhpáhusat";
-"home-reading-list-prompt" = "Du vurkejuvvon artihkkalat sáhttet dál organiserejuvvot lohkanlisttuid ovttadagaid rastá. Čálit sisa vai du lohkanlisttut vurkejuvvojit du geavaheaddjidovddaldahkii.";
 "home-themes-action-title" = "Gieđahala ásahusaid";
 "home-themes-prompt" = "Heivet iežat lohkanoidojumiid, oktan teakstasturrodagain ja artihkkalreaidoholgga fárddain, dahje iežat geavaheaddjiheivehusaid mielde, vai lohkanvásáhus šaddá vuohkkaseabbon.";
 "home-title" = "Guorahala";
@@ -901,11 +900,7 @@
 "reading-list-list-limit-exceeded-message" = "Dát lohkanlistu, ja artihkkalat mat leat vurkejuvvon dasa, eai synkroniserejuvvo. Jus áiggut joatkit synkroniseret dán listtu, de fertet unnidit listtuid logu $1:ii.";
 "reading-list-list-limit-exceeded-title" = "Don leat rasttildan ráji mii lea {{PLURAL:$1|$1 lohkanlistu|$1 lohkanlisttu}} juohke geavaheaddjidovddaldaga namas.";
 "reading-list-list-limit-reached" = "Don leat olahan ráji mii lea $1 lohkanlistu juohke geavaheaddjidovddaldaga namas";
-"reading-list-login-button-title" = "Čálit sisa vai sáhtát synkroniseret vurkejuvvon artihkkaliid";
 "reading-list-login-or-create-account-button-title" = "Čálit sisa dahje ráhkat geavaheaddjidovddaldaga";
-"reading-list-login-or-create-account-title" = "Čálit sisa vai sáhtát synkroniseret vurkejuvvon artihkkaliid";
-"reading-list-login-subtitle" = "Čálit sisa dahje ásat geavaheaddjidovddaldaga jus háliidat ahte vurkejuvvon artihkkalat ja lohkanlisttut galget vurkejuvvot du geavaheaddjidovddaldahkii ja synkroniserejuvvot ovttadagaid rastá.";
-"reading-list-login-title" = "Synkronisere vurkejuvvon artihkkaliid?";
 "reading-list-name-user-created-annotation" = "_[geavaheaddjis ráhkaduvvon]";
 "reading-list-new-list-description-placeholder" = "eaktodáhtolaš oanehis govvádus";
 "reading-list-new-list-name-placeholder" = "lohkanlisttu bajilčála";

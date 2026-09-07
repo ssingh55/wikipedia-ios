@@ -532,7 +532,6 @@
 "home-nearby-footer" = "Lebih banyak tempat di dekat lokasi Anda";
 "home-nearby-location-footer" = "Lainnya di sekitar $1";
 "home-news-footer" = "Peristiwa terkini lainnya";
-"home-reading-list-prompt" = "Artikel tersimpan Anda sekarang dapat diatur ke dalam daftar bacaan dan disinkronkan di seluruh perangkat. Masuk log untuk membolehkan daftar bacaan Anda disimpan ke preferensi pengguna Anda.";
 "home-themes-action-title" = "Kelola preferensi";
 "home-themes-prompt" = "Sesuaikan preferensi bacaan Anda termasuk ukuran teks dan tema dari bilah alat artikel atau di pengaturan pengguna Anda untuk pengalaman membaca yang lebih nyaman.";
 "home-title" = "Jelajah";
@@ -870,11 +869,7 @@
 "reading-list-list-limit-exceeded-message" = "Daftar bacaan ini dan artikel yang disimpan di dalamnya tidak akan disinkronkan, harap kurangi jumlah daftar Anda menjadi $1 untuk melanjutkan sinkronisasi daftar ini.";
 "reading-list-list-limit-exceeded-title" = "Anda telah melampaui batas {{PLURAL:$1|$1 daftar bacaan|$1 daftar bacaan}} per akun.";
 "reading-list-list-limit-reached" = "Anda telah mencapai batas $1 daftar bacaan per akun";
-"reading-list-login-button-title" = "Masuk log untuk menyinkronkan artikel tersimpan Anda";
 "reading-list-login-or-create-account-button-title" = "Masuk log atau buat akun";
-"reading-list-login-or-create-account-title" = "Masuk log untuk menyinkronkan artikel tersimpan";
-"reading-list-login-subtitle" = "Masuk log atau buat akun untuk memungkinkan artikel tersimpan dan daftar bacaan disinkronkan ke seluruh perangkat dan disimpan ke preferensi pengguna Anda.";
-"reading-list-login-title" = "Sinkronkan artikel tersimpan Anda?";
 "reading-list-name-user-created-annotation" = "_[dibuat pengguna]";
 "reading-list-new-list-description-placeholder" = "deskripsi singkat opsional";
 "reading-list-new-list-name-placeholder" = "judul daftar bacaan";

@@ -419,7 +419,6 @@
 "home-nearby-footer" = "Još mjesta blizu Vaše lokacije";
 "home-nearby-location-footer" = "Još u blizini $1";
 "home-news-footer" = "Još aktuelnih događaja";
-"home-reading-list-prompt" = "Sačuvani članci sada se mogu organizovati u spiskove za čitanje i sinhronizovati na svim uređajima. Prijavite se da biste omogućili da Vaši spiskovi za čitanje budu sačuvani prema Vašim korisničkim podešavanjima.";
 "home-themes-action-title" = "Upravljajte podešavanjima";
 "home-themes-prompt" = "Prilagodite svoja podešavanja za čitanje, uključujući veličinu teksta i temu sa trake s alatima za članke ili u svojim korisničkim postavkama za ugodnije iskustvo čitanja.";
 "home-title" = "Istraži";
@@ -723,11 +722,7 @@
 "reading-list-list-limit-exceeded-message" = "Ovaj spisak za čitanje i članci sačuvani na njemu neće biti sinhronizovani, smanjite broj spiskova na $1 da biste nastavili sa sinhronizacijom ovog spiska.";
 "reading-list-list-limit-exceeded-title" = "Prekoračili ste ograničenje od {{PLURAL:$1|$1 spiska za čitanje|$1 spiska za čitanje|$1 spiskova za čitanje}} po računu.";
 "reading-list-list-limit-reached" = "Dostigli ste ograničenje od $1 spiskova za čitanje po računu.";
-"reading-list-login-button-title" = "Prijavite se kako bi sinhronizovali svoje sačuvane članke";
 "reading-list-login-or-create-account-button-title" = "Prijavi se ili napravi račun";
-"reading-list-login-or-create-account-title" = "Prijavite se kako bi sinhronizovali sačuvane članke";
-"reading-list-login-subtitle" = "Prijavite se ili napravite račun kako biste omogućili da se sačuvani članci i spiskovi za čitanje sinhronizuju na svim uređajima i sačuvaju prema Vašim korisničkim podešavanjima.";
-"reading-list-login-title" = "Sinhroniziraj sačuvane članke?";
 "reading-list-name-user-created-annotation" = "_[korisnički napravljeno]";
 "reading-list-new-list-description-placeholder" = "neobavezni kratki opis";
 "reading-list-new-list-name-placeholder" = "naslov spiska za čitanje";

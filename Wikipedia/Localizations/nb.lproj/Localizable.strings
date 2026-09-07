@@ -543,7 +543,6 @@
 "home-nearby-footer" = "Flere steder i nærheten av deg";
 "home-nearby-location-footer" = "Mer i nærheten av $1";
 "home-news-footer" = "Flere aktuelle hendelser";
-"home-reading-list-prompt" = "De lagrede artiklene dine kan nå organiseres i leselister og synkroniseres på tvers av enheter. Logg inn for å la leselistene dine bli lagret til brukerkontoen din.";
 "home-themes-action-title" = "Håndter innstillingene";
 "home-themes-prompt" = "Tilpass lesepreferansene dine inkludert tekststørrelsen og drakten fra artikkelverktøylinjen eller i brukerinnstillingene dine for en behageligere leseopplevelse.";
 "home-title" = "Utforsk";
@@ -916,11 +915,7 @@
 "reading-list-list-limit-exceeded-message" = "Denne leselisten, og artiklene som er lagret i den, blir ikke synkronisert. For å gjenoppta synkronisering av denne listen må du redusere antall lister til $1.\n ";
 "reading-list-list-limit-exceeded-title" = "Du har overskredet grensen på {{PLURAL:$1|$1 leseliste|$1 leselister}} per konto.";
 "reading-list-list-limit-reached" = "Du har nådd grensen på $1 leselister per konto";
-"reading-list-login-button-title" = "Logg inn for å synkronisere lagrede artikler";
 "reading-list-login-or-create-account-button-title" = "Logg inn eller opprett konto";
-"reading-list-login-or-create-account-title" = "Logg innfor å synkronisere lagrede artikler";
-"reading-list-login-subtitle" = "Logg inn eller opprett en konto om du ønsker at lagrede artikler og leselister skal lagres i brukerkontoen din og synkroniseres på tvers av enheter.";
-"reading-list-login-title" = "Synkroniser de lagrede artiklene dine?";
 "reading-list-name-user-created-annotation" = "_[brukerskapt]";
 "reading-list-new-list-description-placeholder" = "valgfri kort beskrivelse";
 "reading-list-new-list-name-placeholder" = "tittel på leseliste";

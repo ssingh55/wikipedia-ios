@@ -568,7 +568,6 @@
 "home-nearby-footer" = "Mais lugares nas suas redondezas";
 "home-nearby-location-footer" = "Mais, perto de $1";
 "home-news-footer" = "Mais atualidades";
-"home-reading-list-prompt" = "Os seus artigos guardados agora podem ser organizados em listas de leitura e sincronizados nos dispositivos. Inicie a sessão para permitir que as suas listas de leitura sejam guardadas nas preferências do utilizador.";
 "home-themes-action-title" = "Gerir preferências";
 "home-themes-prompt" = "Ajuste as suas preferências de leitura, incluindo o tamanho do texto e o tema, a partir da barra de ferramentas do artigo ou nas suas configurações de utilizador, para uma leitura mais confortável.";
 "home-title" = "Explorar";
@@ -954,11 +953,7 @@
 "reading-list-list-limit-exceeded-message" = "Esta lista de leitura e os artigos nela guardados não serão sincronizados. Para continuar a sincronização da lista reduza o número de listas para $1, por favor.";
 "reading-list-list-limit-exceeded-title" = "Excedeu o limite de {{PLURAL:$1|$1 lista de leitura|$1 listas de leitura}} por conta.";
 "reading-list-list-limit-reached" = "Atingiu o limite de $1 listas de leitura por conta";
-"reading-list-login-button-title" = "Inicie a sessão para sincronizar os seus artigos guardados";
 "reading-list-login-or-create-account-button-title" = "Iniciar sessão ou criar conta";
-"reading-list-login-or-create-account-title" = "Inicie a sessão para sincronizar os artigos guardados";
-"reading-list-login-subtitle" = "Inicie a sessão ou crie uma conta para permitir que os seus artigos guardados sejam sincronizados entre os dispositivos e guardados nas suas preferências do utilizador.";
-"reading-list-login-title" = "Sincronizar os seus artigos guardados?";
 "reading-list-name-user-created-annotation" = "_[criada pelo utilizador]";
 "reading-list-new-list-description-placeholder" = "descrição breve opcional";
 "reading-list-new-list-name-placeholder" = "título da lista de leitura";

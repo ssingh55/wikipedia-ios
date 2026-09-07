@@ -771,7 +771,6 @@
 "home-nearby-footer" = "Flere steder i nærheden af din placering";
 "home-nearby-location-footer" = "Mere nær $1";
 "home-news-footer" = "Flere aktuelle hændelser";
-"home-reading-list-prompt" = "Dine gemte artikler kan nu organiseres i læselister og synkroniseret på tværs af enheder. Log ind for at acceptere at dine læselister gemmes i dine brugerpræferencer.";
 "home-tab-title" = "Hjem";
 "home-themes-action-title" = "Håndter præferencer";
 "home-themes-prompt" = "Juster dine læseindstillinger inklusive tekststørrelse og tema fra artiklens værktøjslinje eller i dine brugerindstillinger for en mere komfortabel læseoplevelse.";
@@ -1132,11 +1131,7 @@
 "reading-list-limit-hit-for-unsorted-articles-button-title" = "Sorter artikler";
 "reading-list-limit-hit-for-unsorted-articles-subtitle" = "Der er en begrænsning på 5.000 usorterede artikler. Sorter venligst dine eksisterende artikler i lister for at fortsætte synkroniseringen af usorterede artikler.";
 "reading-list-limit-hit-for-unsorted-articles-title" = "Begrænsningen for usorterede artikler er nået";
-"reading-list-login-button-title" = "Log ind for at synkronisere dine gemte artikler";
 "reading-list-login-or-create-account-button-title" = "Log ind eller opret konto";
-"reading-list-login-or-create-account-title" = "Log ind for at synkronisere gemte artikler";
-"reading-list-login-subtitle" = "Log ind eller opret en konto så dine gemte artikler og læselister synkroniseres på tværs af enheder og gemmes i dine brugerpræferencer.";
-"reading-list-login-title" = "Synkroniser dine gemte artikler?";
 "reading-list-name-user-created-annotation" = "_[bruger oprettet]";
 "reading-list-new-list-description-placeholder" = "valgfri kort beskrivelse";
 "reading-list-new-list-name-placeholder" = "titel på læseliste";

@@ -556,7 +556,6 @@
 "home-nearby-footer" = "Још места у близини";
 "home-nearby-location-footer" = "Још у близини $1";
 "home-news-footer" = "Још актуелних догађаја";
-"home-reading-list-prompt" = "Сачувани чланци се сада могу организовати у листама за читање и синхронизовати између уређаја. Пријавите се и дозволите чување листа у вашим подешавањима.";
 "home-tab-title" = "Почетна";
 "home-themes-action-title" = "Управљај подешавањима";
 "home-themes-prompt" = "Прилагодите подешавања за читање (укључујући величину текста и тему) у траци за управљање чланцима или у вашим подешавањима.";
@@ -934,11 +933,7 @@
 "reading-list-list-limit-exceeded-message" = "Ова листа за читање и чланци сачувани на њој неће бити синхронизовани. Смањите број листа на $1 да бисте поново синхронизовали ову листу.";
 "reading-list-list-limit-exceeded-title" = "Прекорачили сте ограничење од {{PLURAL:$1|$1 листе за читање|$1 листа за читање}} по налогу.";
 "reading-list-list-limit-reached" = "Достигли сте ограничење од $1 листа за читање по налогу";
-"reading-list-login-button-title" = "Пријавите се да бисте синхронизовали сачуване чланке";
 "reading-list-login-or-create-account-button-title" = "Пријава/регистрација";
-"reading-list-login-or-create-account-title" = "Пријавите се да бисте синхронизовали сачуване чланке";
-"reading-list-login-subtitle" = "Пријавите се или отворите налог да бисте синхронизовали чланке и листе за читање међу уређајима и сачували своја подешавања.";
-"reading-list-login-title" = "Синхронизовати сачуване чланке?";
 "reading-list-name-user-created-annotation" = "_[направио корисник]";
 "reading-list-new-list-description-placeholder" = "опционалан кратак опис";
 "reading-list-new-list-name-placeholder" = "наслов листе за читање";

@@ -666,7 +666,6 @@
 "home-nearby-footer" = "Plus locos proxime a te";
 "home-nearby-location-footer" = "Plus a proximitate de $1";
 "home-news-footer" = "Plus actualitates";
-"home-reading-list-prompt" = "Tu articulos salveguardate pote ora esser organisate in listas de lectura e synchronisate inter apparatos. Aperi session pro permitter que tu listas de lectura se salveguarda in tu preferentias de usator.";
 "home-themes-action-title" = "Gerer preferentias";
 "home-themes-prompt" = "Adjusta tu preferentias de lectura, como le grandor de texto e le thema, a partir del barra de utensiles in le articulo o in tu parametros de usator pro un experientia de lectura plus confortabile.";
 "home-title" = "Explorar";
@@ -1085,11 +1084,7 @@
 "reading-list-list-limit-exceeded-message" = "Iste lista de lectura e le articulos salveguardate in illo non essera synchronisate. Per favor diminue le numero de tu listas a $1 pro reprender le synchronisation de iste lista.";
 "reading-list-list-limit-exceeded-title" = "Tu ha excedite le limite de $1 lista{{PLURAL:$1||s}} de lectura per conto.";
 "reading-list-list-limit-reached" = "Tu ha attingite le limite de $1 listas de lectura per conto";
-"reading-list-login-button-title" = "Aperi session pro synchronisar tu articulos salveguardate";
 "reading-list-login-or-create-account-button-title" = "Aperir session o crear conto";
-"reading-list-login-or-create-account-title" = "Aperi session pro synchronisar articulos salveguardate";
-"reading-list-login-subtitle" = "Aperi session o crea un conto pro permitter que tu articulos salveguardate e tu listas de lectura se synchronisa inter apparatos e se salveguarda in tu preferentias de usator.";
-"reading-list-login-title" = "Synchronisar tu articulos salveguardate?";
 "reading-list-name-user-created-annotation" = "_[create per usator]";
 "reading-list-new-list-description-placeholder" = "curte description optional";
 "reading-list-new-list-name-placeholder" = "titulo del lista de lectura";

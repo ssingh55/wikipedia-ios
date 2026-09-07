@@ -798,7 +798,6 @@
 "home-nearby-footer" = "Davantage de lieux à proximité";
 "home-nearby-location-footer" = "Davantage à proximité de $1";
 "home-news-footer" = "Davantage d’événements actuels";
-"home-reading-list-prompt" = "Vos articles enregistrés peuvent maintenant être organisés dans des listes de lecture et synchronisés entre appareils. Connectez-vous pour permettre à vos listes de lecture d’être enregistrées dans vos préférences utilisateur.";
 "home-tab-title" = "Accueil";
 "home-themes-action-title" = "Gérer les préférences";
 "home-themes-prompt" = "Ajustez vos préférences de lecture (y compris la taille du texte et le thème) depuis la barre d’outil de l’article ou dans vos préférences utilisateur pour améliorer la lisibilité.";
@@ -1212,11 +1211,7 @@
 "reading-list-list-limit-exceeded-message" = "Cette liste de lecture et les articles enregistrés dedans ne seront pas synchronisés, veuillez réduire le nombre de listes à $1 pour reprendre la synchronisation de cette liste.";
 "reading-list-list-limit-exceeded-title" = "Vous avez atteint la limite de {{PLURAL:$1|$1 liste de lecture|$1 listes de lecture}} par compte.";
 "reading-list-list-limit-reached" = "Vous avez atteint la limite de $1 listes de lecture par compte";
-"reading-list-login-button-title" = "Connectez-vous pour synchroniser vos articles enregistrés";
 "reading-list-login-or-create-account-button-title" = "Se connecter ou créer un compte";
-"reading-list-login-or-create-account-title" = "Se connecter pour synchroniser les articles enregistrés";
-"reading-list-login-subtitle" = "Se connecter ou créer un compte pour permettre de synchroniser vos articles enregistrés et vos listes de lecture entre appareils, et enregistrer vos préférences utilisateur.";
-"reading-list-login-title" = "Synchroniser vos articles enregistrés ?";
 "reading-list-name-user-created-annotation" = "_[créée par utilisateur]";
 "reading-list-new-list-description-placeholder" = "courte description optionnelle";
 "reading-list-new-list-name-placeholder" = "titre de la liste de lecture";

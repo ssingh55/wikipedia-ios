@@ -1,0 +1,32 @@
+# Appknox build check: an unsigned device IPA. Build only: nothing is installed, launched or tested.
+require "fileutils"
+require "shellwords"
+
+default_platform(:ios)
+
+platform :ios do
+  lane :build_unsigned do
+    ws = ENV.fetch("GITHUB_WORKSPACE")
+    out = File.join(ws, "build")
+    scheme = ENV.fetch("AK_SCHEME")
+    opts = {
+      scheme: scheme,
+      configuration: "Debug",
+      destination: "generic/platform=iOS",
+      skip_codesigning: true,
+      skip_package_ipa: true,
+      archive_path: File.join(out, "App.xcarchive"),
+      xcargs: "CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO #{ENV['AK_XCARGS']}".strip
+    }
+    opts[:workspace] = File.join(ws, ENV["AK_WORKSPACE"]) unless ENV["AK_WORKSPACE"].to_s.empty?
+    opts[:project] = File.join(ws, ENV["AK_PROJECT"]) unless ENV["AK_PROJECT"].to_s.empty?
+    build_app(opts)
+
+    apps = Dir[File.join(out, "App.xcarchive/Products/Applications/*.app")]
+    UI.user_error!("the archive contains no .app") if apps.empty?
+    payload = File.join(out, "Payload")
+    FileUtils.mkdir_p(payload)
+    FileUtils.cp_r(apps.first, payload)
+    sh("cd #{out.shellescape} && zip -qry #{"#{scheme}-unsigned.ipa".shellescape} Payload")
+  end
+end

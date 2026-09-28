@@ -1,0 +1,43 @@
+# Appknox build check (iOS). Unsigned device IPA via fastlane.
+# Build only: nothing is installed, launched or tested. No signing, no secrets.
+name: Appknox Build Check
+
+on:
+  push:
+    branches: [ci/build-check]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  AK_WORKSPACE: ""
+  AK_PROJECT: "Wikipedia.xcodeproj"
+  AK_SCHEME: "Wikipedia"
+  AK_XCARGS: "-onlyUsePackageVersionsFromResolvedFile"
+  POD_DIR: ""
+
+jobs:
+  build:
+    runs-on: macos-26
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - name: Select the newest Xcode
+        run: |
+          x=$(ls -d /Applications/Xcode_*.app | sort -V | tail -1)
+          sudo xcode-select -s "$x"
+          xcodebuild -version
+      - name: Install pods
+        if: env.POD_DIR != ''
+        run: cd "$POD_DIR" && pod install --repo-update
+      - name: Build unsigned IPA (fastlane)
+        run: |
+          command -v fastlane >/dev/null || sudo gem install fastlane -N
+          cd .appknox && fastlane build_unsigned
+      - uses: actions/upload-artifact@v4
+        with:
+          name: build-output
+          path: build/*-unsigned.ipa
+          if-no-files-found: error
+          retention-days: 14

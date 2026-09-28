@@ -16,6 +16,7 @@ env:
   AK_SCHEME: "Wikipedia"
   AK_XCARGS: "-onlyUsePackageVersionsFromResolvedFile"
   POD_DIR: ""
+  PRE_CMD: "scripts/setup_bundle_id ci"           # repo-specific setup before pods/build (e.g. generated xcconfig)
 
 jobs:
   build:
@@ -28,6 +29,9 @@ jobs:
           x=$(ls -d /Applications/Xcode_*.app | sort -V | tail -1)
           sudo xcode-select -s "$x"
           xcodebuild -version
+      - name: Repo setup
+        if: env.PRE_CMD != ''
+        run: bash -euo pipefail -c "$PRE_CMD"
       - name: Install pods
         if: env.POD_DIR != ''
         run: cd "$POD_DIR" && pod install --repo-update

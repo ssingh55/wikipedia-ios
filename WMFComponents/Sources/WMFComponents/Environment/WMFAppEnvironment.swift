@@ -12,6 +12,7 @@ public final class WMFAppEnvironment: ObservableObject {
     @Published public private(set) var theme = WMFTheme.light
     @Published public private(set) var traitCollection = UITraitCollection.current
     @Published public private(set) var articleAndEditorTextSize: UIContentSizeCategory = .large
+    @Published public private(set) var isCompromised = false
 
 	// MARK: - Update
 

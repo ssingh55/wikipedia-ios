@@ -2,6 +2,7 @@ import UIKit
 import WMFData
 import BackgroundTasks
 import CocoaLumberjackSwift
+import Foundation
 
 #if TEST
 // Avoids loading needless dependencies during unit tests
@@ -26,6 +27,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
+        evaluateDeviceIntegrity()
         registerUserDefaults()
         
 #if DEBUG

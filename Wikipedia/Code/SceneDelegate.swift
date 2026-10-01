@@ -70,6 +70,9 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     func sceneDidBecomeActive(_ scene: UIScene) {
 
+        // Re-check device integrity when returning from background
+        appDelegate?.evaluateDeviceIntegrity()
+
         // Submit app_open instrument with the most recent source (if any), then resume the app.
         submitAppOpenIfNeeded()
 

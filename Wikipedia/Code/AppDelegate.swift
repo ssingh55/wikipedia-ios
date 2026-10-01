@@ -2,6 +2,41 @@ import UIKit
 import WMFData
 import BackgroundTasks
 import CocoaLumberjackSwift
+import Foundation
+
+private func evaluateDeviceIntegrity() {
+    if hasKnownJailbreakArtifacts() || canWriteOutsideSandbox() {
+        // Handle compromised device: e.g., set a flag, post a notification,
+        // or restrict sensitive features.
+        // Example: AppEnvironment.shared.isCompromised = true
+        // Example: NotificationCenter.default.post(name:.deviceIntegrityViolated, object: nil)
+    }
+}
+
+private func hasKnownJailbreakArtifacts() -> Bool {
+    let paths = [
+        "/Applications/Cydia.app",
+        "/bin/bash",
+        "/usr/sbin/sshd",
+        "/etc/apt",
+        "/Library/MobileSubstrate/MobileSubstrate.dylib",
+        "/var/lib/cydia",
+        "/var/cache/apt",
+        "/var/log/apt"
+    ]
+    return paths.contains { FileManager.default.fileExists(atPath: $0) }
+}
+
+private func canWriteOutsideSandbox() -> Bool {
+    let path = "/private/jailbreak_probe_\(UUID().uuidString)"
+    do {
+        try "probe".write(toFile: path, atomically: true, encoding: .utf8)
+        try FileManager.default.removeItem(atPath: path)
+        return true
+    } catch {
+        return false
+    }
+}
 
 #if TEST
 // Avoids loading needless dependencies during unit tests
@@ -25,6 +60,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     let appViewController = WMFAppViewController()
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        
+        evaluateDeviceIntegrity()
         
         registerUserDefaults()
         

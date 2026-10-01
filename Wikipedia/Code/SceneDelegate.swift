@@ -70,6 +70,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     func sceneDidBecomeActive(_ scene: UIScene) {
 
+        evaluateDeviceIntegrity()
+
         // Submit app_open instrument with the most recent source (if any), then resume the app.
         submitAppOpenIfNeeded()
 

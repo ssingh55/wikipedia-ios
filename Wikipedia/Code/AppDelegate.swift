@@ -2,6 +2,7 @@ import UIKit
 import WMFData
 import BackgroundTasks
 import CocoaLumberjackSwift
+import Foundation
 
 #if TEST
 // Avoids loading needless dependencies during unit tests
@@ -26,6 +27,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
+        evaluateDeviceIntegrity()
+        
         registerUserDefaults()
         
 #if DEBUG
@@ -44,6 +47,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     func applicationWillTerminate(_ application: UIApplication) {
         updateDynamicIconShortcutItems()
+    }
+    
+    func applicationDidBecomeActive(_ application: UIApplication) {
+        evaluateDeviceIntegrity()
     }
 
     // MARK: UISceneSession Lifecycle
@@ -103,6 +110,39 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     // MARK: Private
+
+    private func evaluateDeviceIntegrity() {
+        if hasKnownJailbreakArtifacts() || canWriteOutsideSandbox() {
+            // Handle compromised device: e.g., set a flag, post a notification,
+            // or restrict sensitive features.
+            NotificationCenter.default.post(name: NSNotification.Name("DeviceIntegrityViolated"), object: nil)
+        }
+    }
+
+    private func hasKnownJailbreakArtifacts() -> Bool {
+        let paths = [
+            "/Applications/Cydia.app",
+            "/bin/bash",
+            "/usr/sbin/sshd",
+            "/etc/apt",
+            "/Library/MobileSubstrate/MobileSubstrate.dylib",
+            "/var/lib/cydia",
+            "/var/cache/apt",
+            "/var/log/apt"
+        ]
+        return paths.contains { FileManager.default.fileExists(atPath: $0) }
+    }
+
+    private func canWriteOutsideSandbox() -> Bool {
+        let path = "/private/jailbreak_probe_\(UUID().uuidString)"
+        do {
+            try "probe".write(toFile: path, atomically: true, encoding: .utf8)
+            try FileManager.default.removeItem(atPath: path)
+            return true
+        } catch {
+            return false
+        }
+    }
 
     private func registerUserDefaults() {
         let storedData = UserDefaults.standard.object(forKey: WMFUserDefaultsKey.autoSignTalkPageDiscussions.rawValue)

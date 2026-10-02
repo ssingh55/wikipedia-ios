@@ -70,6 +70,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     func sceneDidBecomeActive(_ scene: UIScene) {
 
+        evaluateDeviceIntegrity()
+
         // Submit app_open instrument with the most recent source (if any), then resume the app.
         submitAppOpenIfNeeded()
 
@@ -276,6 +278,41 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     // when a notification or other entry point is handled prior to scene activation.
     @objc func setLastOpenSource(_ source: NSString?) {
         self.lastOpenSource = source as String?
+    }
+
+    // MARK: Device Integrity
+    
+    private func evaluateDeviceIntegrity() {
+        if hasKnownJailbreakArtifacts() || canWriteOutsideSandbox() {
+            // Handle compromised device: e.g., set a flag, post a notification,
+            // or restrict sensitive features.
+            NotificationCenter.default.post(name: NSNotification.Name("DeviceIntegrityViolated"), object: nil)
+        }
+    }
+
+    private func hasKnownJailbreakArtifacts() -> Bool {
+        let paths = [
+            "/Applications/Cydia.app",
+            "/bin/bash",
+            "/usr/sbin/sshd",
+            "/etc/apt",
+            "/Library/MobileSubstrate/MobileSubstrate.dylib",
+            "/var/lib/cydia",
+            "/var/cache/apt",
+            "/var/log/apt"
+        ]
+        return paths.contains { FileManager.default.fileExists(atPath: $0) }
+    }
+
+    private func canWriteOutsideSandbox() -> Bool {
+        let path = "/private/jailbreak_probe_\(UUID().uuidString)"
+        do {
+            try "probe".write(toFile: path, atomically: true, encoding: .utf8)
+            try FileManager.default.removeItem(atPath: path)
+            return true
+        } catch {
+            return false
+        }
     }
 
     // MARK: Private
